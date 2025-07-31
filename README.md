@@ -1,5 +1,7 @@
 # Manga Face LoRA Training with Stable Diffusion
 
+**[Try the Interactive Demo on Kaggle →](https://www.kaggle.com/code/nithinkumars521/txt-img)**
+
 A comprehensive implementation for training LoRA (Low-Rank Adaptation) models to generate high-quality manga-style face portraits using Stable Diffusion v1.5.
 
 ## 🎯 Overview
